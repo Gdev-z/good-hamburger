@@ -1,0 +1,34 @@
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.Infrastructure\bin\Debug\net8.0\GoodHamburger.Infrastructure.deps.json
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.Infrastructure\bin\Debug\net8.0\GoodHamburger.Infrastructure.dll
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.Infrastructure\bin\Debug\net8.0\GoodHamburger.Infrastructure.pdb
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.Infrastructure\bin\Debug\net8.0\GoodHamburger.Application.dll
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.Infrastructure\bin\Debug\net8.0\GoodHamburger.Domain.dll
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.Infrastructure\bin\Debug\net8.0\GoodHamburger.Domain.pdb
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.Infrastructure\bin\Debug\net8.0\GoodHamburger.Application.pdb
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.Infrastructure\obj\Debug\net8.0\GoodHamburger.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.Infrastructure\obj\Debug\net8.0\GoodHamburger.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.Infrastructure\obj\Debug\net8.0\GoodHamburger.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.Infrastructure\obj\Debug\net8.0\GoodHamburger.Infrastructure.AssemblyInfo.cs
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.Infrastructure\obj\Debug\net8.0\GoodHamburger.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.Infrastructure\obj\Debug\net8.0\GoodHamb.5C53B714.Up2Date
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.Infrastructure\obj\Debug\net8.0\GoodHamburger.Infrastructure.dll
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.Infrastructure\obj\Debug\net8.0\refint\GoodHamburger.Infrastructure.dll
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.Infrastructure\obj\Debug\net8.0\GoodHamburger.Infrastructure.pdb
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.Infrastructure\obj\Debug\net8.0\ref\GoodHamburger.Infrastructure.dll
+C:\DEVLIFE\good-hamburger\GoodHamburger.Infrastructure\bin\Debug\net8.0\GoodHamburger.Infrastructure.deps.json
+C:\DEVLIFE\good-hamburger\GoodHamburger.Infrastructure\bin\Debug\net8.0\GoodHamburger.Infrastructure.dll
+C:\DEVLIFE\good-hamburger\GoodHamburger.Infrastructure\bin\Debug\net8.0\GoodHamburger.Infrastructure.pdb
+C:\DEVLIFE\good-hamburger\GoodHamburger.Infrastructure\bin\Debug\net8.0\GoodHamburger.Application.dll
+C:\DEVLIFE\good-hamburger\GoodHamburger.Infrastructure\bin\Debug\net8.0\GoodHamburger.Domain.dll
+C:\DEVLIFE\good-hamburger\GoodHamburger.Infrastructure\bin\Debug\net8.0\GoodHamburger.Domain.pdb
+C:\DEVLIFE\good-hamburger\GoodHamburger.Infrastructure\bin\Debug\net8.0\GoodHamburger.Application.pdb
+C:\DEVLIFE\good-hamburger\GoodHamburger.Infrastructure\obj\Debug\net8.0\GoodHamburger.Infrastructure.csproj.AssemblyReference.cache
+C:\DEVLIFE\good-hamburger\GoodHamburger.Infrastructure\obj\Debug\net8.0\GoodHamburger.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEVLIFE\good-hamburger\GoodHamburger.Infrastructure\obj\Debug\net8.0\GoodHamburger.Infrastructure.AssemblyInfoInputs.cache
+C:\DEVLIFE\good-hamburger\GoodHamburger.Infrastructure\obj\Debug\net8.0\GoodHamburger.Infrastructure.AssemblyInfo.cs
+C:\DEVLIFE\good-hamburger\GoodHamburger.Infrastructure\obj\Debug\net8.0\GoodHamburger.Infrastructure.csproj.CoreCompileInputs.cache
+C:\DEVLIFE\good-hamburger\GoodHamburger.Infrastructure\obj\Debug\net8.0\GoodHamb.5C53B714.Up2Date
+C:\DEVLIFE\good-hamburger\GoodHamburger.Infrastructure\obj\Debug\net8.0\GoodHamburger.Infrastructure.dll
+C:\DEVLIFE\good-hamburger\GoodHamburger.Infrastructure\obj\Debug\net8.0\refint\GoodHamburger.Infrastructure.dll
+C:\DEVLIFE\good-hamburger\GoodHamburger.Infrastructure\obj\Debug\net8.0\GoodHamburger.Infrastructure.pdb
+C:\DEVLIFE\good-hamburger\GoodHamburger.Infrastructure\obj\Debug\net8.0\ref\GoodHamburger.Infrastructure.dll

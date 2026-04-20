@@ -1,0 +1,30 @@
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.Application\bin\Debug\net8.0\GoodHamburger.Application.deps.json
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.Application\bin\Debug\net8.0\GoodHamburger.Application.dll
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.Application\bin\Debug\net8.0\GoodHamburger.Application.pdb
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.Application\bin\Debug\net8.0\GoodHamburger.Domain.dll
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.Application\bin\Debug\net8.0\GoodHamburger.Domain.pdb
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.Application\obj\Debug\net8.0\GoodHamburger.Application.csproj.AssemblyReference.cache
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.Application\obj\Debug\net8.0\GoodHamburger.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.Application\obj\Debug\net8.0\GoodHamburger.Application.AssemblyInfoInputs.cache
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.Application\obj\Debug\net8.0\GoodHamburger.Application.AssemblyInfo.cs
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.Application\obj\Debug\net8.0\GoodHamburger.Application.csproj.CoreCompileInputs.cache
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.Application\obj\Debug\net8.0\GoodHamb.630BA540.Up2Date
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.Application\obj\Debug\net8.0\GoodHamburger.Application.dll
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.Application\obj\Debug\net8.0\refint\GoodHamburger.Application.dll
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.Application\obj\Debug\net8.0\GoodHamburger.Application.pdb
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.Application\obj\Debug\net8.0\ref\GoodHamburger.Application.dll
+C:\DEVLIFE\good-hamburger\GoodHamburger.Application\bin\Debug\net8.0\GoodHamburger.Application.deps.json
+C:\DEVLIFE\good-hamburger\GoodHamburger.Application\bin\Debug\net8.0\GoodHamburger.Application.dll
+C:\DEVLIFE\good-hamburger\GoodHamburger.Application\bin\Debug\net8.0\GoodHamburger.Application.pdb
+C:\DEVLIFE\good-hamburger\GoodHamburger.Application\bin\Debug\net8.0\GoodHamburger.Domain.dll
+C:\DEVLIFE\good-hamburger\GoodHamburger.Application\bin\Debug\net8.0\GoodHamburger.Domain.pdb
+C:\DEVLIFE\good-hamburger\GoodHamburger.Application\obj\Debug\net8.0\GoodHamburger.Application.csproj.AssemblyReference.cache
+C:\DEVLIFE\good-hamburger\GoodHamburger.Application\obj\Debug\net8.0\GoodHamburger.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEVLIFE\good-hamburger\GoodHamburger.Application\obj\Debug\net8.0\GoodHamburger.Application.AssemblyInfoInputs.cache
+C:\DEVLIFE\good-hamburger\GoodHamburger.Application\obj\Debug\net8.0\GoodHamburger.Application.AssemblyInfo.cs
+C:\DEVLIFE\good-hamburger\GoodHamburger.Application\obj\Debug\net8.0\GoodHamburger.Application.csproj.CoreCompileInputs.cache
+C:\DEVLIFE\good-hamburger\GoodHamburger.Application\obj\Debug\net8.0\GoodHamb.630BA540.Up2Date
+C:\DEVLIFE\good-hamburger\GoodHamburger.Application\obj\Debug\net8.0\GoodHamburger.Application.dll
+C:\DEVLIFE\good-hamburger\GoodHamburger.Application\obj\Debug\net8.0\refint\GoodHamburger.Application.dll
+C:\DEVLIFE\good-hamburger\GoodHamburger.Application\obj\Debug\net8.0\GoodHamburger.Application.pdb
+C:\DEVLIFE\good-hamburger\GoodHamburger.Application\obj\Debug\net8.0\ref\GoodHamburger.Application.dll

@@ -1,0 +1,100 @@
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.API\bin\Debug\net8.0\appsettings.json
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.API\bin\Debug\net8.0\GoodHamburger.API.exe
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.API\bin\Debug\net8.0\GoodHamburger.API.deps.json
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.API\bin\Debug\net8.0\GoodHamburger.API.runtimeconfig.json
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.API\bin\Debug\net8.0\GoodHamburger.API.dll
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.API\bin\Debug\net8.0\GoodHamburger.API.pdb
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.API\bin\Debug\net8.0\GoodHamburger.API.xml
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.API\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.API\bin\Debug\net8.0\GoodHamburger.Application.dll
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.API\bin\Debug\net8.0\GoodHamburger.Domain.dll
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.API\bin\Debug\net8.0\GoodHamburger.Infrastructure.dll
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.API\bin\Debug\net8.0\GoodHamburger.Application.pdb
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.API\bin\Debug\net8.0\GoodHamburger.Infrastructure.pdb
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.API\bin\Debug\net8.0\GoodHamburger.Domain.pdb
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.API\obj\Debug\net8.0\GoodHamburger.API.csproj.AssemblyReference.cache
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.API\obj\Debug\net8.0\GoodHamburger.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.API\obj\Debug\net8.0\GoodHamburger.API.AssemblyInfoInputs.cache
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.API\obj\Debug\net8.0\GoodHamburger.API.AssemblyInfo.cs
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.API\obj\Debug\net8.0\GoodHamburger.API.csproj.CoreCompileInputs.cache
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.API\obj\Debug\net8.0\GoodHamburger.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.API\obj\Debug\net8.0\GoodHamburger.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.API\obj\Debug\net8.0\staticwebassets\msbuild.GoodHamburger.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.API\obj\Debug\net8.0\staticwebassets\msbuild.build.GoodHamburger.API.props
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GoodHamburger.API.props
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GoodHamburger.API.props
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.API\obj\Debug\net8.0\scopedcss\bundle\GoodHamburger.API.styles.css
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.API\obj\Debug\net8.0\GoodHamb.EBE2785F.Up2Date
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.API\obj\Debug\net8.0\GoodHamburger.API.dll
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.API\obj\Debug\net8.0\refint\GoodHamburger.API.dll
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.API\obj\Debug\net8.0\GoodHamburger.API.xml
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.API\obj\Debug\net8.0\GoodHamburger.API.pdb
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.API\obj\Debug\net8.0\GoodHamburger.API.genruntimeconfig.cache
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.API\obj\Debug\net8.0\ref\GoodHamburger.API.dll
+C:\DEVLIFE\good-hamburger\GoodHamburger.API\bin\Debug\net8.0\appsettings.Development.json
+C:\DEVLIFE\good-hamburger\GoodHamburger.API\bin\Debug\net8.0\appsettings.json
+C:\DEVLIFE\good-hamburger\GoodHamburger.API\bin\Debug\net8.0\GoodHamburger.API.exe
+C:\DEVLIFE\good-hamburger\GoodHamburger.API\bin\Debug\net8.0\GoodHamburger.API.deps.json
+C:\DEVLIFE\good-hamburger\GoodHamburger.API\bin\Debug\net8.0\GoodHamburger.API.runtimeconfig.json
+C:\DEVLIFE\good-hamburger\GoodHamburger.API\bin\Debug\net8.0\GoodHamburger.API.dll
+C:\DEVLIFE\good-hamburger\GoodHamburger.API\bin\Debug\net8.0\GoodHamburger.API.pdb
+C:\DEVLIFE\good-hamburger\GoodHamburger.API\bin\Debug\net8.0\GoodHamburger.API.xml
+C:\DEVLIFE\good-hamburger\GoodHamburger.API\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\DEVLIFE\good-hamburger\GoodHamburger.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\DEVLIFE\good-hamburger\GoodHamburger.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\DEVLIFE\good-hamburger\GoodHamburger.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\DEVLIFE\good-hamburger\GoodHamburger.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\DEVLIFE\good-hamburger\GoodHamburger.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\DEVLIFE\good-hamburger\GoodHamburger.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\DEVLIFE\good-hamburger\GoodHamburger.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\DEVLIFE\good-hamburger\GoodHamburger.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\DEVLIFE\good-hamburger\GoodHamburger.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\DEVLIFE\good-hamburger\GoodHamburger.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\DEVLIFE\good-hamburger\GoodHamburger.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\DEVLIFE\good-hamburger\GoodHamburger.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\DEVLIFE\good-hamburger\GoodHamburger.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\DEVLIFE\good-hamburger\GoodHamburger.API\bin\Debug\net8.0\GoodHamburger.Application.dll
+C:\DEVLIFE\good-hamburger\GoodHamburger.API\bin\Debug\net8.0\GoodHamburger.Domain.dll
+C:\DEVLIFE\good-hamburger\GoodHamburger.API\bin\Debug\net8.0\GoodHamburger.Infrastructure.dll
+C:\DEVLIFE\good-hamburger\GoodHamburger.API\bin\Debug\net8.0\GoodHamburger.Application.pdb
+C:\DEVLIFE\good-hamburger\GoodHamburger.API\bin\Debug\net8.0\GoodHamburger.Infrastructure.pdb
+C:\DEVLIFE\good-hamburger\GoodHamburger.API\bin\Debug\net8.0\GoodHamburger.Domain.pdb
+C:\DEVLIFE\good-hamburger\GoodHamburger.API\obj\Debug\net8.0\GoodHamburger.API.csproj.AssemblyReference.cache
+C:\DEVLIFE\good-hamburger\GoodHamburger.API\obj\Debug\net8.0\GoodHamburger.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEVLIFE\good-hamburger\GoodHamburger.API\obj\Debug\net8.0\GoodHamburger.API.AssemblyInfoInputs.cache
+C:\DEVLIFE\good-hamburger\GoodHamburger.API\obj\Debug\net8.0\GoodHamburger.API.AssemblyInfo.cs
+C:\DEVLIFE\good-hamburger\GoodHamburger.API\obj\Debug\net8.0\GoodHamburger.API.csproj.CoreCompileInputs.cache
+C:\DEVLIFE\good-hamburger\GoodHamburger.API\obj\Debug\net8.0\GoodHamburger.API.MvcApplicationPartsAssemblyInfo.cs
+C:\DEVLIFE\good-hamburger\GoodHamburger.API\obj\Debug\net8.0\GoodHamburger.API.MvcApplicationPartsAssemblyInfo.cache
+C:\DEVLIFE\good-hamburger\GoodHamburger.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\DEVLIFE\good-hamburger\GoodHamburger.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\DEVLIFE\good-hamburger\GoodHamburger.API\obj\Debug\net8.0\staticwebassets\msbuild.GoodHamburger.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\DEVLIFE\good-hamburger\GoodHamburger.API\obj\Debug\net8.0\staticwebassets\msbuild.build.GoodHamburger.API.props
+C:\DEVLIFE\good-hamburger\GoodHamburger.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GoodHamburger.API.props
+C:\DEVLIFE\good-hamburger\GoodHamburger.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GoodHamburger.API.props
+C:\DEVLIFE\good-hamburger\GoodHamburger.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\DEVLIFE\good-hamburger\GoodHamburger.API\obj\Debug\net8.0\scopedcss\bundle\GoodHamburger.API.styles.css
+C:\DEVLIFE\good-hamburger\GoodHamburger.API\obj\Debug\net8.0\GoodHamb.EBE2785F.Up2Date
+C:\DEVLIFE\good-hamburger\GoodHamburger.API\obj\Debug\net8.0\GoodHamburger.API.dll
+C:\DEVLIFE\good-hamburger\GoodHamburger.API\obj\Debug\net8.0\refint\GoodHamburger.API.dll
+C:\DEVLIFE\good-hamburger\GoodHamburger.API\obj\Debug\net8.0\GoodHamburger.API.xml
+C:\DEVLIFE\good-hamburger\GoodHamburger.API\obj\Debug\net8.0\GoodHamburger.API.pdb
+C:\DEVLIFE\good-hamburger\GoodHamburger.API\obj\Debug\net8.0\GoodHamburger.API.genruntimeconfig.cache
+C:\DEVLIFE\good-hamburger\GoodHamburger.API\obj\Debug\net8.0\ref\GoodHamburger.API.dll

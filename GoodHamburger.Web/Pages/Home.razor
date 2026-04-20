@@ -1,0 +1,202 @@
+@page "/"
+@using GoodHamburger.Web.Models
+@inject HttpClient Http
+@inject NavigationManager NavManager
+
+<PageTitle>Good Hamburger 🍔</PageTitle>
+
+<div class="hero">
+    <div class="hero-content">
+        <h1>🍔 Good Hamburger</h1>
+        <p>O melhor hambúrguer da cidade</p>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col card">
+            <h2>📋 Cardápio</h2>
+            @if (menu == null)
+            {
+                <div class="loading">Carregando cardápio...</div>
+            }
+            else
+            {
+                <div class="menu-section">
+                    <h3>🥪 Sanduíches</h3>
+                    @foreach (var item in menu.Where(m => m.Type == "Sandwich"))
+                    {
+                        <div class="menu-item @(selectedIds.Contains(item.Id) ? "selected" : "")"
+                             @onclick="() => ToggleItem(item)">
+                            <span class="item-name">@item.Name</span>
+                            <span class="item-price">R$ @item.Price.ToString("F2")</span>
+                        </div>
+                    }
+                </div>
+                <div class="menu-section">
+                    <h3>🍟 Acompanhamentos</h3>
+                    @foreach (var item in menu.Where(m => m.Type == "SideDish"))
+                    {
+                        <div class="menu-item @(selectedIds.Contains(item.Id) ? "selected" : "")"
+                             @onclick="() => ToggleItem(item)">
+                            <span class="item-name">@item.Name</span>
+                            <span class="item-price">R$ @item.Price.ToString("F2")</span>
+                        </div>
+                    }
+                </div>
+                <div class="menu-section">
+                    <h3>🥤 Bebidas</h3>
+                    @foreach (var item in menu.Where(m => m.Type == "Drink"))
+                    {
+                        <div class="menu-item @(selectedIds.Contains(item.Id) ? "selected" : "")"
+                             @onclick="() => ToggleItem(item)">
+                            <span class="item-name">@item.Name</span>
+                            <span class="item-price">R$ @item.Price.ToString("F2")</span>
+                        </div>
+                    }
+                </div>
+
+                @if (selectedIds.Any())
+                {
+                    <div class="order-preview">
+                        <h4>Selecionados:</h4>
+                        @foreach (var id in selectedIds)
+                        {
+                            var item = menu.FirstOrDefault(m => m.Id == id);
+                            if (item != null)
+                            {
+                                <span class="tag">@item.Name</span>
+                            }
+                        }
+                    </div>
+                }
+
+                @if (!string.IsNullOrEmpty(errorMessage))
+                {
+                    <div class="error-box">⚠️ @errorMessage</div>
+                }
+
+                <button class="btn-primary" @onclick="CreateOrder" disabled="@(!selectedIds.Any() || isSubmitting)">
+                    @(isSubmitting ? "Enviando..." : "✅ Fazer Pedido")
+                </button>
+            }
+        </div>
+
+        <div class="col card">
+            <h2>📦 Pedidos</h2>
+            <button class="btn-secondary" @onclick="LoadOrders">🔄 Atualizar</button>
+
+            @if (orders == null)
+            {
+                <div class="loading">Carregando pedidos...</div>
+            }
+            else if (!orders.Any())
+            {
+                <div class="empty">Nenhum pedido ainda. Faça o primeiro! 👆</div>
+            }
+            else
+            {
+                @foreach (var order in orders.OrderByDescending(o => o.Id))
+                {
+                    <div class="order-card">
+                        <div class="order-header">
+                            <strong>Pedido #@order.Id</strong>
+                            <span class="date">@order.CreatedAt.ToLocalTime().ToString("dd/MM HH:mm")</span>
+                            <button class="btn-danger-sm" @onclick="() => DeleteOrder(order.Id)">🗑️</button>
+                        </div>
+                        <div class="order-items">
+                            @foreach (var item in order.Items)
+                            {
+                                <span class="tag">@item.MenuItemName</span>
+                            }
+                        </div>
+                        <div class="order-totals">
+                            <span>Subtotal: R$ @order.Subtotal.ToString("F2")</span>
+                            @if (order.Discount > 0)
+                            {
+                                <span class="discount">Desconto: -R$ @order.Discount.ToString("F2")</span>
+                            }
+                            <strong>Total: R$ @order.Total.ToString("F2")</strong>
+                        </div>
+                    </div>
+                }
+            }
+        </div>
+    </div>
+</div>
+
+@code {
+    private List<MenuItemModel>? menu;
+    private List<OrderModel>? orders;
+    private List<int> selectedIds = new();
+    private string errorMessage = string.Empty;
+    private bool isSubmitting = false;
+
+    protected override async Task OnInitializedAsync()
+    {
+        await Task.WhenAll(LoadMenu(), LoadOrders());
+    }
+
+    private async Task LoadMenu()
+    {
+        try { menu = await Http.GetFromJsonAsync<List<MenuItemModel>>("api/menu"); }
+        catch { menu = new(); }
+    }
+
+    private async Task LoadOrders()
+    {
+        try { orders = await Http.GetFromJsonAsync<List<OrderModel>>("api/orders"); }
+        catch { orders = new(); }
+    }
+
+    private void ToggleItem(MenuItemModel item)
+    {
+        errorMessage = string.Empty;
+        if (selectedIds.Contains(item.Id))
+            selectedIds.Remove(item.Id);
+        else
+            selectedIds.Add(item.Id);
+    }
+
+    private async Task CreateOrder()
+    {
+        errorMessage = string.Empty;
+        isSubmitting = true;
+        try
+        {
+            var payload = new CreateOrderModel { MenuItemIds = new List<int>(selectedIds) };
+            var response = await Http.PostAsJsonAsync("api/orders", payload);
+
+            if (response.IsSuccessStatusCode)
+            {
+                selectedIds.Clear();
+                await LoadOrders();
+            }
+            else
+            {
+                var body = await response.Content.ReadFromJsonAsync<ErrorResponse>();
+                errorMessage = body?.Error ?? "Erro ao criar pedido.";
+            }
+        }
+        catch (Exception ex)
+        {
+            errorMessage = ex.Message;
+        }
+        finally
+        {
+            isSubmitting = false;
+        }
+    }
+
+    private async Task DeleteOrder(int id)
+    {
+        var response = await Http.DeleteAsync($"api/orders/{id}");
+        if (response.IsSuccessStatusCode)
+            await LoadOrders();
+    }
+
+    private class ErrorResponse
+    {
+        public string Error { get; set; } = string.Empty;
+    }
+}

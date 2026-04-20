@@ -1,0 +1,22 @@
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.Domain\bin\Debug\net8.0\GoodHamburger.Domain.deps.json
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.Domain\bin\Debug\net8.0\GoodHamburger.Domain.dll
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.Domain\bin\Debug\net8.0\GoodHamburger.Domain.pdb
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.Domain\obj\Debug\net8.0\GoodHamburger.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.Domain\obj\Debug\net8.0\GoodHamburger.Domain.AssemblyInfoInputs.cache
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.Domain\obj\Debug\net8.0\GoodHamburger.Domain.AssemblyInfo.cs
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.Domain\obj\Debug\net8.0\GoodHamburger.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.Domain\obj\Debug\net8.0\GoodHamburger.Domain.dll
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.Domain\obj\Debug\net8.0\refint\GoodHamburger.Domain.dll
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.Domain\obj\Debug\net8.0\GoodHamburger.Domain.pdb
+C:\Users\Acer Ryzen 7\Downloads\good-hamburger\good-hamburger\GoodHamburger.Domain\obj\Debug\net8.0\ref\GoodHamburger.Domain.dll
+C:\DEVLIFE\good-hamburger\GoodHamburger.Domain\bin\Debug\net8.0\GoodHamburger.Domain.deps.json
+C:\DEVLIFE\good-hamburger\GoodHamburger.Domain\bin\Debug\net8.0\GoodHamburger.Domain.dll
+C:\DEVLIFE\good-hamburger\GoodHamburger.Domain\bin\Debug\net8.0\GoodHamburger.Domain.pdb
+C:\DEVLIFE\good-hamburger\GoodHamburger.Domain\obj\Debug\net8.0\GoodHamburger.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEVLIFE\good-hamburger\GoodHamburger.Domain\obj\Debug\net8.0\GoodHamburger.Domain.AssemblyInfoInputs.cache
+C:\DEVLIFE\good-hamburger\GoodHamburger.Domain\obj\Debug\net8.0\GoodHamburger.Domain.AssemblyInfo.cs
+C:\DEVLIFE\good-hamburger\GoodHamburger.Domain\obj\Debug\net8.0\GoodHamburger.Domain.csproj.CoreCompileInputs.cache
+C:\DEVLIFE\good-hamburger\GoodHamburger.Domain\obj\Debug\net8.0\GoodHamburger.Domain.dll
+C:\DEVLIFE\good-hamburger\GoodHamburger.Domain\obj\Debug\net8.0\refint\GoodHamburger.Domain.dll
+C:\DEVLIFE\good-hamburger\GoodHamburger.Domain\obj\Debug\net8.0\GoodHamburger.Domain.pdb
+C:\DEVLIFE\good-hamburger\GoodHamburger.Domain\obj\Debug\net8.0\ref\GoodHamburger.Domain.dll

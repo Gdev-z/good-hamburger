@@ -1,0 +1,153 @@
+/* Good Hamburger – Blazor UI */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+    font-family: 'Segoe UI', system-ui, sans-serif;
+    background: #1a1a2e;
+    color: #eee;
+    min-height: 100vh;
+}
+
+.hero {
+    background: linear-gradient(135deg, #c0392b 0%, #e74c3c 50%, #f39c12 100%);
+    padding: 3rem 2rem;
+    text-align: center;
+}
+.hero h1 { font-size: 3rem; font-weight: 900; color: white; text-shadow: 2px 2px 4px rgba(0,0,0,.4); }
+.hero p  { font-size: 1.2rem; color: rgba(255,255,255,.9); margin-top: .5rem; }
+
+.container { max-width: 1100px; margin: 2rem auto; padding: 0 1rem; }
+.row { display: flex; gap: 1.5rem; flex-wrap: wrap; }
+.col { flex: 1; min-width: 300px; }
+
+.card {
+    background: #16213e;
+    border-radius: 16px;
+    padding: 1.5rem;
+    border: 1px solid rgba(255,255,255,.08);
+}
+.card h2 { font-size: 1.4rem; margin-bottom: 1rem; color: #f39c12; }
+
+.menu-section { margin-bottom: 1.2rem; }
+.menu-section h3 { font-size: 1rem; color: #aaa; margin-bottom: .5rem; text-transform: uppercase; letter-spacing: .05em; }
+
+.menu-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: .7rem 1rem;
+    border-radius: 10px;
+    margin-bottom: .4rem;
+    cursor: pointer;
+    border: 2px solid transparent;
+    background: #0f3460;
+    transition: all .2s ease;
+}
+.menu-item:hover { border-color: #e74c3c; transform: translateX(4px); }
+.menu-item.selected { border-color: #f39c12; background: #1f4068; }
+.item-name { font-weight: 500; }
+.item-price { color: #2ecc71; font-weight: 700; }
+
+.order-preview {
+    margin: 1rem 0;
+    padding: .8rem;
+    background: rgba(243,156,18,.1);
+    border-radius: 8px;
+    border: 1px solid rgba(243,156,18,.3);
+}
+.order-preview h4 { font-size: .85rem; color: #f39c12; margin-bottom: .5rem; }
+
+.tag {
+    display: inline-block;
+    background: #e74c3c;
+    color: white;
+    padding: .25rem .6rem;
+    border-radius: 20px;
+    font-size: .8rem;
+    margin: .2rem;
+}
+
+.btn-primary {
+    width: 100%;
+    padding: .9rem;
+    border: none;
+    border-radius: 10px;
+    background: linear-gradient(135deg, #c0392b, #e74c3c);
+    color: white;
+    font-size: 1rem;
+    font-weight: 700;
+    cursor: pointer;
+    margin-top: 1rem;
+    transition: opacity .2s;
+}
+.btn-primary:hover:not(:disabled) { opacity: .85; }
+.btn-primary:disabled { opacity: .4; cursor: not-allowed; }
+
+.btn-secondary {
+    padding: .5rem 1rem;
+    border: 1px solid #f39c12;
+    border-radius: 8px;
+    background: transparent;
+    color: #f39c12;
+    cursor: pointer;
+    margin-bottom: 1rem;
+    font-size: .9rem;
+}
+.btn-secondary:hover { background: rgba(243,156,18,.1); }
+
+.btn-danger-sm {
+    padding: .2rem .5rem;
+    border: none;
+    border-radius: 6px;
+    background: rgba(231,76,60,.3);
+    color: #e74c3c;
+    cursor: pointer;
+    font-size: .85rem;
+}
+.btn-danger-sm:hover { background: rgba(231,76,60,.6); }
+
+.order-card {
+    background: #0f3460;
+    border-radius: 12px;
+    padding: 1rem;
+    margin-bottom: .8rem;
+    border: 1px solid rgba(255,255,255,.06);
+}
+.order-header {
+    display: flex;
+    align-items: center;
+    gap: .5rem;
+    margin-bottom: .5rem;
+}
+.order-header strong { flex: 1; color: #f39c12; }
+.date { font-size: .8rem; color: #888; }
+.order-items { margin: .5rem 0; }
+.order-totals {
+    display: flex;
+    flex-direction: column;
+    gap: .2rem;
+    font-size: .85rem;
+    border-top: 1px solid rgba(255,255,255,.08);
+    padding-top: .5rem;
+    margin-top: .5rem;
+    color: #ccc;
+}
+.order-totals strong { color: #2ecc71; font-size: 1rem; }
+.discount { color: #e74c3c; }
+
+.error-box {
+    background: rgba(231,76,60,.15);
+    border: 1px solid rgba(231,76,60,.4);
+    border-radius: 8px;
+    padding: .7rem 1rem;
+    margin: .5rem 0;
+    color: #e74c3c;
+    font-size: .9rem;
+}
+
+.loading, .empty { color: #888; font-style: italic; padding: 1rem 0; }
+
+@media (max-width: 640px) {
+    .hero h1 { font-size: 2rem; }
+    .row { flex-direction: column; }
+}
