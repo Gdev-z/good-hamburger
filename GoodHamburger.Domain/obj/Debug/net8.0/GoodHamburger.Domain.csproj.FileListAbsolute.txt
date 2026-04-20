@@ -20,3 +20,4 @@ C:\DEVLIFE\good-hamburger\GoodHamburger.Domain\obj\Debug\net8.0\GoodHamburger.Do
 C:\DEVLIFE\good-hamburger\GoodHamburger.Domain\obj\Debug\net8.0\refint\GoodHamburger.Domain.dll
 C:\DEVLIFE\good-hamburger\GoodHamburger.Domain\obj\Debug\net8.0\GoodHamburger.Domain.pdb
 C:\DEVLIFE\good-hamburger\GoodHamburger.Domain\obj\Debug\net8.0\ref\GoodHamburger.Domain.dll
+C:\DEVLIFE\good-hamburger\GoodHamburger.Domain\obj\Debug\net8.0\GoodHamburger.Domain.sourcelink.json

@@ -28,3 +28,4 @@ C:\DEVLIFE\good-hamburger\GoodHamburger.Application\obj\Debug\net8.0\GoodHamburg
 C:\DEVLIFE\good-hamburger\GoodHamburger.Application\obj\Debug\net8.0\refint\GoodHamburger.Application.dll
 C:\DEVLIFE\good-hamburger\GoodHamburger.Application\obj\Debug\net8.0\GoodHamburger.Application.pdb
 C:\DEVLIFE\good-hamburger\GoodHamburger.Application\obj\Debug\net8.0\ref\GoodHamburger.Application.dll
+C:\DEVLIFE\good-hamburger\GoodHamburger.Application\obj\Debug\net8.0\GoodHamburger.Application.sourcelink.json

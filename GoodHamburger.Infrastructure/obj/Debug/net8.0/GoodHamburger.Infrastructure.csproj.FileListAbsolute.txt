@@ -32,3 +32,4 @@ C:\DEVLIFE\good-hamburger\GoodHamburger.Infrastructure\obj\Debug\net8.0\GoodHamb
 C:\DEVLIFE\good-hamburger\GoodHamburger.Infrastructure\obj\Debug\net8.0\refint\GoodHamburger.Infrastructure.dll
 C:\DEVLIFE\good-hamburger\GoodHamburger.Infrastructure\obj\Debug\net8.0\GoodHamburger.Infrastructure.pdb
 C:\DEVLIFE\good-hamburger\GoodHamburger.Infrastructure\obj\Debug\net8.0\ref\GoodHamburger.Infrastructure.dll
+C:\DEVLIFE\good-hamburger\GoodHamburger.Infrastructure\obj\Debug\net8.0\GoodHamburger.Infrastructure.sourcelink.json

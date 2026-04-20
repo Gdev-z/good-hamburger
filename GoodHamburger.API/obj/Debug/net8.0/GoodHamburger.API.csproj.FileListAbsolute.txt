@@ -98,3 +98,4 @@ C:\DEVLIFE\good-hamburger\GoodHamburger.API\obj\Debug\net8.0\GoodHamburger.API.x
 C:\DEVLIFE\good-hamburger\GoodHamburger.API\obj\Debug\net8.0\GoodHamburger.API.pdb
 C:\DEVLIFE\good-hamburger\GoodHamburger.API\obj\Debug\net8.0\GoodHamburger.API.genruntimeconfig.cache
 C:\DEVLIFE\good-hamburger\GoodHamburger.API\obj\Debug\net8.0\ref\GoodHamburger.API.dll
+C:\DEVLIFE\good-hamburger\GoodHamburger.API\obj\Debug\net8.0\GoodHamburger.API.sourcelink.json
